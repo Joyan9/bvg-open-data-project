@@ -1,7 +1,5 @@
 # BVG Open Data Project
 
----
-
 ### **1. Purpose**
 The purpose of this data pipeline is to collect and analyze data for Berlin tram line **M13** to:
 - Track its **schedule and performance** between the stations **Schönhauser Allee/Bornholmer Straße** and **Antonplatz**.

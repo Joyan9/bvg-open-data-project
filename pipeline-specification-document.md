@@ -74,4 +74,3 @@ This data pipeline aims to provide insights into the operational efficiency and 
 - **Data Manipulation**: Processed using `pandas`.  
 - **S3 Integration**: Managed via `boto3`.  
 - **File Format**: Parquet for compact, efficient storage.  
-- **Error Handling**: Comprehensive checks for API failures and data inconsistencies.

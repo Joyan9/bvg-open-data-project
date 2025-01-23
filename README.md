@@ -3,6 +3,8 @@
 ## **Introduction**
 This project is my first attempt at learning and applying the concepts of data engineering to solve a real-world problem. Since I commute daily using the M13 tram in Berlin, I wanted to analyze its operational efficiency and make data-backed decisions regarding my travel. I discovered an amazing BVG REST API built by Jannis (@derhuerst), which is a wrapper around the BVG HAFAS API, and used it as the data source for this project.
 
+![BVG Data Pipeline Diagram](workflow.png)
+
 ---
 
 ## **Purpose**

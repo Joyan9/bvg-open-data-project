@@ -1,4 +1,4 @@
-,trip_id,station_name,event_type,scheduled_time,actual_time,delay_seconds,day_of_week,hour_of_day,service_date,punctuality_status,delay_bucket,peak_status,day_type
+row_id,trip_id,station_name,event_type,scheduled_time,actual_time,delay_seconds,day_of_week,hour_of_day,service_date,punctuality_status,delay_bucket,peak_status,day_type
 0,1|64498|2|86|23012025,Schönhauser Allee/Bornholmer Str. (Berlin),arrival,2025-01-23 23:08:00,2025-01-23 23:07:00,-60.0,4,23,2025-01-23,punctual,1_to_5min_early,off_peak,weekday
 1,1|64498|2|86|23012025,Schönhauser Allee/Bornholmer Str. (Berlin),departure,2025-01-23 23:08:00,2025-01-23 23:07:00,-60.0,4,23,2025-01-23,punctual,1_to_5min_early,off_peak,weekday
 2,1|64462|8|86|23012025,Schönhauser Allee/Bornholmer Str. (Berlin),arrival,2025-01-23 23:09:00,2025-01-23 23:07:00,-120.0,4,23,2025-01-23,early,1_to_5min_early,off_peak,weekday
